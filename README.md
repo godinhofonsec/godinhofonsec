@@ -5,7 +5,7 @@ Creative technologist · Visual Design & UX · Strategy at an international cons
 
 ## What I'm building
 
-- 🔴 **GØDN** — brand, e-commerce and design system for a sportswear label (private repo — ask me about it)
+- 🔴 **[GØDN](https://www.godn.pt/)** — brand, e-commerce and design system for a sportswear label (private repo — ask me about it)
 - 🌊 **[flowfield-studio](https://github.com/godinhofonsec/flowfield-studio)** — interactive generative art with p5.js (flow fields, seeded randomness)
 - 🎨 **[tokenforge](https://github.com/godinhofonsec/tokenforge)** — design tokens → CSS variables generator with built-in WCAG contrast checking
 
